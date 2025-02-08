@@ -1,0 +1,70 @@
+.proyek{
+    margin-bottom: 50px;
+}
+
+.n1{
+    display: inline;
+    background-color: blueviolet;
+}
+.n2{
+    display: inline;
+    background-color: aqua;
+}
+.n3{
+    display: inline;
+    background-color: green;
+}
+
+.proyek{
+    margin-bottom: 50px;
+}
+.proyek1{
+    background-color: rgb(217, 42, 252);
+    padding: 30px;
+    width: 227px;
+    height: 40px;
+}
+.m1{
+    display: inline;
+    background-color: rgba(16, 69, 100, 0.733);
+    padding: 20px;
+    border-radius: 10px;
+    color: rgb(42, 216, 100);
+}
+.m2{
+    display: inline;
+    background-color: rgba(16, 69, 100, 0.733);
+    padding: 20px;
+    border-radius: 10px;
+    color: rgb(42, 216, 100);
+}
+.m3{
+    display: inline;
+    background-color: rgba(16, 69, 100, 0.733);
+    padding: 20px;
+    border-radius: 10px;
+    color: rgb(42, 216, 100);
+}
+
+.p1{
+    display: inline;
+    background-color: aquamarine;
+    padding: 2px;
+    border-width: 2px;
+    border-right: 2px;
+    border-bottom: 2px;
+    border-left: 2px;
+    border-style: solid;
+    border-color: black;
+}
+.p2{
+    display: inline;
+    background-color: aquamarine;
+    padding: 2px;
+    border-width: 2px;
+    border-right: 2px;
+    border-bottom: 2px;
+    border-left: 2px;
+    border-style: solid;
+    border-color: black;
+}
